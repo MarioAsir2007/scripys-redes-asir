@@ -1,2 +1,2 @@
-# Validacion del script de red 
-practica de git
+# Validacion del script de red
+# Modificado en mi entorno local
